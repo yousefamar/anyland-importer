@@ -1,0 +1,34 @@
+{
+  "name": "anyland-importer",
+  "version": "0.1.0",
+  "description": "Hax for importing models into Anyland",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefamar/anyland-importer.git"
+  },
+  "keywords": [
+    "anyland",
+    "import",
+    "models",
+    "obj",
+    "blender",
+    "model",
+    "vr",
+    "htc",
+    "vive",
+    "steamvr",
+    "game",
+    "hacks",
+    "hax"
+  ],
+  "author": "Yousef Amar <yousef@amar.io> (http://yousefamar.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yousefamar/anyland-importer/issues"
+  },
+  "homepage": "https://github.com/yousefamar/anyland-importer#readme",
+  "dependencies": {
+    "livescript": "^1.5.0",
+    "request": "^2.79.0"
+  }
+}
